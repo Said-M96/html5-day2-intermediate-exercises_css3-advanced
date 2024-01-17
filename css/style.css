@@ -1,0 +1,36 @@
+#main {
+    font-size: 30px;
+    border: 2px solid gray;
+    padding: 0 30px 0 30px;
+}
+
+article {
+    font-size: 20px;
+    padding: 0 5px 0 5px;
+}
+
+h1 {
+    font-size: 60px;
+    color: red;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    margin: 30px;
+}
+
+table {
+    border: 1px solid;
+    background-color: gray;
+    text-align: center;
+    width: 40%;
+    margin: 10px auto;
+    padding: 10px;
+}
